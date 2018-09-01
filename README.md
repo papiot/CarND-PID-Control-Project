@@ -3,6 +3,14 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+## Reflections
+
+First, I tried each parameter individually and observed the result on the simulator.
+I then tried a combination of all three parameters until I found the parameters
+that worked for me.
+
+Resulting video is attached in the project!
+
 ## Dependencies
 
 * cmake >= 3.5
